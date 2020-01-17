@@ -17,4 +17,4 @@ P.S.This App was not created for commercial use. Its only purpose was to help me
 
 The mockup used to draw the application's layout was made by Digital Heaps, click the following link for more information https://www.uplabs.com/posts/tour-travel-booking-mobile-app-ui-kit-light-sketch
 
-
+Be side from the mockup, I'm the only contributor to this app. New Ideas and innovative concepts are welcomed.
