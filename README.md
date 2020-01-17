@@ -1,5 +1,4 @@
 # TourGuide
-## Descrption 
 
 This App provides a selection of great destinations in Montreal.
 
