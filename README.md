@@ -6,7 +6,7 @@ It divided into 4 categories, each one of them contains 5 locations or events.
 
 The categories are Spots, Events, Dining and Museums.
 
-P.S.This App was not created for commercial use. Its only purpose was to help me practice my android skills
+P.S.This App was not created for commercial use. Its only purpose was to help practice android skills
 
 ## Prerquisites 
 
@@ -17,4 +17,4 @@ P.S.This App was not created for commercial use. Its only purpose was to help me
 
 The mockup used to draw the application's layout was made by Digital Heaps, click the following link for more information https://www.uplabs.com/posts/tour-travel-booking-mobile-app-ui-kit-light-sketch
 
-Be side from the mockup, I'm the only contributor to this app. New Ideas and innovative concepts are welcomed :)
+Be side from the mockup, the owner of this github profile is the only contributor to this app. New Ideas and innovative concepts are welcomed :)
