@@ -1,3 +1,6 @@
+# Image In ReadMes
+![Spot_fragment_layout](https://user-images.githubusercontent.com/48886200/73373245-2666fd00-4297-11ea-987b-77beff049a5e.jpg)
+
 # TourGuide
  
 This App provides a selection of great destinations in Montreal.
