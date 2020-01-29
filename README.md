@@ -1,6 +1,3 @@
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
-
 # TourGuide
  
 This App provides a selection of great destinations in Montreal.
