@@ -1,4 +1,4 @@
-# Image In ReadMes
+# App's Layout 
 ![Spot_fragment_layout](https://user-images.githubusercontent.com/48886200/73373245-2666fd00-4297-11ea-987b-77beff049a5e.jpg)
 
 # TourGuide
