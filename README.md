@@ -1,4 +1,4 @@
-![Spot_fragment_layout](https://user-images.githubusercontent.com/48886200/73373245-2666fd00-4297-11ea-987b-77beff049a5e.jpg)
+![TourGuide_Double_Fragments](https://user-images.githubusercontent.com/48886200/73866060-f7b2ce80-4822-11ea-8a96-ce1fbf195f99.png)
 
 # TourGuide
  
@@ -19,4 +19,4 @@ P.S.This App was not created for commercial use. Its only purpose was to help pr
 
 The mockup used to draw the application's layout was made by Digital Heaps, click the following link for more information https://www.uplabs.com/posts/tour-travel-booking-mobile-app-ui-kit-light-sketch
 
-Be side from the mockup, the owner of this github profile is the only contributor to this app. New Ideas and innovative concepts are welcomed :)
+Exept for the mockup, the owner of this github profile is the only contributor to this app. New Ideas and innovative concepts are welcomed :)
