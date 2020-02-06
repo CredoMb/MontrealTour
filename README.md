@@ -1,4 +1,4 @@
-![TourGuide_Double_Fragments](https://user-images.githubusercontent.com/48886200/73866060-f7b2ce80-4822-11ea-8a96-ce1fbf195f99.png)
+![TourGuide_Two_Fragments](https://user-images.githubusercontent.com/48886200/73896492-ea690480-4861-11ea-9b8d-6942c8ac31d9.png)
 
 # TourGuide
  
