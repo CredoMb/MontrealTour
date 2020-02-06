@@ -8,7 +8,7 @@ It divided into 4 categories, each one of them contains 5 locations or events.
 
 The categories are Spots, Events, Dining and Museums.
 
-P.S.This App was not created for commercial use. Its only purpose was to help practice android skills
+P.S.This App was not created for commercial use.
 
 ## Prerquisites 
 
