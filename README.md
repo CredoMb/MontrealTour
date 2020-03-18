@@ -10,7 +10,7 @@ The categories are Spots, Events, Dining and Museums.
 
 P.S.This App was not created for commercial use.
 
-## Prerquisites 
+## Prerequisites 
 
 * Android SDK v29
 * Android Build Tools v29.0.2
